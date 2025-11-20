@@ -43,7 +43,7 @@ cd travel-agency-management
 ```
 
 #### Step 2: Database setup
-[`database/README.md`](database/readme.md)
+[`database/README.md`](database/README.md)
 
 #### Step 3: Configure connection
 Update App.Presentation.WinForms/appsettings.json:
