@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="App.Core/App.Core.csproj" />
+  <Project Path="App.Infrastructure.Oracle/App.Infrastructure.Oracle.csproj" />
+  <Project Path="App.Presentation.WinForms/App.Presentation.WinForms.csproj" />
+</Solution>

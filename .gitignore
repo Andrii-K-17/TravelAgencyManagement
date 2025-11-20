@@ -1,0 +1,52 @@
+# Visual Studio, .NET
+.vs/
+.vscode/
+.idea/
+
+bin/
+obj/
+**/bin/
+**/obj/
+artifacts/
+publish/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+*.nupkg
+/packages/
+.nuget/packages/
+
+# MSBuild, SDK files
+project.lock.json
+project.fragment.lock.json
+obj/**/project.assets.json
+
+# Logs and temporary files
+*.log
+*.tlog
+*.vspscc
+
+# Test results, coverage
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+
+# IDE/tooling caches
+_ReSharper*/
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+
+# Secrets (local)
+secrets.json
+.env
+.env.local
+.env.*.local
+appsettings.Development.json
