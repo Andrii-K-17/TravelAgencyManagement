@@ -38,8 +38,8 @@ The project follows a 3-tier architecture to ensure separation of concerns and m
 
 #### Step 1: Clone repository
 ```bash
-git clone [https://github.com/Andrii-K-17/TravelAgencyManagement.git](https://github.com/YOUR_USERNAME/travel-agency-management.git)
-cd travel-agency-management
+git clone [https://github.com/Andrii-K-17/TravelAgencyManagement.git](https://github.com/Andrii-K-17/TravelAgencyManagement.git)
+cd TravelAgencyManagement
 ```
 
 #### Step 2: Database setup
